@@ -2,6 +2,7 @@ JASON CHU
 jasonmchu@yahoo.com | 647.873.3937
 
 Business Analytics | Advisory | Strategy | Stakeholder Relations | Client Service Excellence | Qualitative and Quantitative Skill Set | Insight, Intelligence | Excel, SQL, Access, RDBM, VBA OLAP cube platforms | Leadership & Presentation | Visualization
+
 PROFESSIONAL EXPERIENCE
 Galliant Capital LP, Montreal, QC	2018 – 2019
 Investment Analyst
@@ -35,8 +36,10 @@ Intermediate Financial Analyst (Financial Analyst 2002)
 	Participated in post implementation review of projects to validate results and document successes & failures 
 	Vetted capital projects submitted for approval by insuring assumptions in models are reasonable and outlined findings
 	Documented processes, uncovered improvement opportunities and implemented best practices
+
 EDUCATION
 	Masters of Finance, Queen’s University, Kingston, ON | Bachelor of Commerce, Ryerson University, Toronto, ON
+
 HOBBIES, COMMUNITY & LEADERSHIP
 	Python, Google Colab, Github and SSRN research
 	Registration & fundraiser, JDRF; Former AVP membership Toastmasters
