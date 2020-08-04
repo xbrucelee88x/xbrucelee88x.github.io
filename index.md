@@ -1,4 +1,4 @@
-JASON CHU
+##JASON CHU
 jasonmchu@yahoo.com | 647.873.3937
 
 Business Analytics | Advisory | Strategy | Stakeholder Relations | Client Service Excellence | Qualitative and Quantitative Skill Set | Insight, Intelligence | Excel, SQL, Access, RDBM, VBA OLAP cube platforms | Leadership & Presentation | Visualization
